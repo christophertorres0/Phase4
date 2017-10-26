@@ -29,22 +29,22 @@ body {
 }
 
 .column-1 {
-	height:50%;
-	width:50%;
+	height:10%;
+	width:10%;
 	background-color:green;
 }
 
 
 .column-2 {
-	height:50%;
-	width:50%;
+	height:10%;
+	width:10%;
 	background-color:red;
 }
 
 
 .column-3 {
-	height:50%;
-	width:50%;
+	height:10%;
+	width:10%;
 	background-color:yellow;
 }
 
