@@ -8,15 +8,15 @@ body {
 }
 
 .shoe1 {
-	height: 100vh;
-	width: 50vw;
+	height: 100%;
+	width: 50%;
 	display: block;
 	background-color: #DB713B; 
 }
 
 .shoe2 {
-	height: 100vh;
-	width: 50vw;
+	height: 100%;
+	width: 50%;
 	background-color: #E39B36;
 	
 }
