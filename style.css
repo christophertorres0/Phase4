@@ -28,15 +28,25 @@ body {
 	position:fixed;
 }
 
+.column-1 {
+	height:50%;
+	width:50%;
+	background-color:green;
+}
 
 
+.column-2 {
+	height:50%;
+	width:50%;
+	background-color:red;
+}
 
 
-
-
-
-
-
+.column-3 {
+	height:50%;
+	width:50%;
+	background-color:yellow;
+}
 
 
 
