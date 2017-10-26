@@ -28,31 +28,7 @@ body {
 	position:fixed;
 }
 
-.shoe4 {
-	height: 20%;
-	width: 18%;
-	background-color: green;
-	margin: auto;
-	float:middle;
-}
 
-.shoe5 {
-	height: 20%;
-	width: 18%;
-	background-color: red;
-        margin:auto;
-	float:left
-}
-
-.shoe6 {
-	height: 20%;
-	width: 18%;
-	background-color: yellow;
-	margin:auto;
-	float:right;
-	
-	
-}
 
 
 
