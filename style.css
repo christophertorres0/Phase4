@@ -8,15 +8,15 @@ body {
 }
 
 .shoe1 {
-	height: 100%;
-	width: 50%;
+	height: 100vh;
+	width: 50vw;
 	display: block;
 	background-color: #DB713B; 
 }
 
 .shoe2 {
-	height: 100%;
-	width: 50%;
+	height: 100vh;
+	width: 50vw;
 	background-color: #E39B36;
 	
 }
@@ -34,8 +34,7 @@ body {
 	background-color:green;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content:center;
-	align-items:center;
+	
 }
 
 
@@ -45,8 +44,7 @@ body {
 	background-color:red;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content:center;
-	align-items:center;
+	
 }
 
 
@@ -56,8 +54,7 @@ body {
 	background-color:yellow;
 	display:flex;
 	flex-wrap: wrap;
-	justify-content:center;
-	align-items:center;
+	
 }
 
 
