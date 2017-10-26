@@ -9,14 +9,14 @@ body {
 
 .shoe1 {
 	height: 100vh;
-	width: 50vw;
+	width: 100vw;
 	display: block;
 	background-color: #DB713B; 
 }
 
 .shoe2 {
 	height: 100vh;
-	width: 50vw;
+	width: 100vw;
 	background-color: #E39B36;
 	
 }
@@ -28,34 +28,30 @@ body {
 	position:fixed;
 }
 
-
 .column-1 {
-	height:20%;
-	width:20%;
+	height:10%;
+	width:10%;
 	background-color:green;
 	display:flex;
 	flex-wrap: wrap;
-	
 }
 
 
 .column-2 {
-	height:20%;
-	width:20%;
+	height:10%;
+	width:10%;
 	background-color:red;
 	display:flex;
 	flex-wrap: wrap;
-	
 }
 
 
 .column-3 {
-	height:20%;
-	width:20%;
+	height:10%;
+	width:10%;
 	background-color:yellow;
 	display:flex;
 	flex-wrap: wrap;
-	
 }
 
 
