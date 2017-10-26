@@ -30,7 +30,7 @@ body {
 
 .column-1 {
 	height:10%;
-	width:10%;
+	width:calc(100%/3);
 	background-color:green;
 	display:flex;
 	flex-wrap: wrap;
@@ -39,7 +39,7 @@ body {
 
 .column-2 {
 	height:10%;
-	width:10%;
+	width:calc(100%/3);
 	background-color:red;
 	display:flex;
 	flex-wrap: wrap;
@@ -48,7 +48,7 @@ body {
 
 .column-3 {
 	height:10%;
-	width:10%;
+	width:calc(100%/3);
 	background-color:yellow;
 	display:flex;
 	flex-wrap: wrap;
