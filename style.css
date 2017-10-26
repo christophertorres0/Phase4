@@ -29,7 +29,7 @@ body {
 }
 
 .column-1 {
-	height:10%;
+	height:100%;
 	width:calc(100%/3);
 	background-color:green;
 	display:flex;
@@ -38,7 +38,7 @@ body {
 
 
 .column-2 {
-	height:10%;
+	height:100%;
 	width:calc(100%/3);
 	background-color:red;
 	display:flex;
@@ -47,7 +47,7 @@ body {
 
 
 .column-3 {
-	height:10%;
+	height:100%;
 	width:calc(100%/3);
 	background-color:yellow;
 	display:flex;
