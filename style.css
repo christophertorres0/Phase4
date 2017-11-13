@@ -71,3 +71,30 @@ body {
 		width: 100%;
 	    position:fixed;
 }
+
+	.column-1 {
+	height:30%;
+	width:100%;
+	background-color:green;
+	display:flex;
+	flex-wrap: wrap;
+}
+
+
+.column-2 {
+	height:30%;
+	width:100%;
+	background-color:red;
+	display:flex;
+	flex-wrap: wrap;
+}
+
+
+.column-3 {
+	height:30%;
+	width:100%;
+	background-color:yellow;
+	display:flex;
+	flex-wrap: wrap;
+}
+}
