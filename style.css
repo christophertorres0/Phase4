@@ -65,6 +65,7 @@ body {
 	.shoe2 {
 		height:50vh;	
 		width:100vw;
+		display:block;
 	}
 	.shoe3{ 
 		height:8%;
