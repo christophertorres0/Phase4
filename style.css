@@ -5,6 +5,7 @@ body {
 	width:100vw;
 	display: flex;
 	flex-wrap:wrap;
+	margin:0px;
 }
 
 .shoe1 {
