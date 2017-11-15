@@ -23,10 +23,6 @@ body {
 }
 
 ul {
-	height: 10%;
-	width: 100%;
-	background-color: #120D08;
-	position:fixed;
 	list-style-type: none;
         margin: 0;
     	padding: 50;
