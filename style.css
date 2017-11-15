@@ -54,6 +54,12 @@ body {
 	flex-wrap: wrap;
 }
 
+.row{
+	width:100%;
+	height: 30%;
+	background-color:white;
+}
+
 
 
 
