@@ -23,6 +23,8 @@ body {
 }
 
 ul {
+	height:10vh;
+	width:100;
 	list-style-type: none;
         margin: 0;
     	padding: 50;
