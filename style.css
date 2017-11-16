@@ -55,6 +55,7 @@ li a:hover {
 	width:calc(100%/3);
 	display:flex;
 	flex-wrap: wrap;
+	padding:10px;
 }
 
 
@@ -63,6 +64,7 @@ li a:hover {
 	width:calc(100%/3);
 	display:flex;
 	flex-wrap: wrap;
+	padding:10px
 }
 
 
@@ -71,6 +73,7 @@ li a:hover {
 	width:calc(100%/3);
 	display:flex;
 	flex-wrap: wrap;
+	padding:10px;
 }
 
 .row{
