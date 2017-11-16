@@ -79,11 +79,11 @@ li a:hover {
 
 .row{
 	width:65%;
-	height: 80%;
+	height: 110%;
 	display:flex;
 	flex-wrap:wrap;
 	margin:auto;
-	margin-top:0px;
+	
 }
 
 
