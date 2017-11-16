@@ -9,14 +9,14 @@ body {
 }
 
 .shoe1 {
-	height: 30vh;
+	height: 40%;
 	width: 100vw;
 	display: block;
 	background-color: #DB713B; 
 }
 
 .shoe2 {
-	height: 20vh;
+	height: 50%;
 	width: 30vw;
 	background-color: #E39B36;
 	display: flex;
@@ -24,7 +24,7 @@ body {
 }
 
 ul {
-	height:10vh;
+	height:10%;
 	width:100%;
 	list-style-type: none;
         margin: 0;
