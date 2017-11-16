@@ -78,8 +78,8 @@ li a:hover {
 }
 
 .row{
-	width:65%;
-	height: 110%;
+	width:110%;
+	height: 80%;
 	display:flex;
 	flex-wrap:wrap;
 	margin:auto;
