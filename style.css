@@ -80,7 +80,6 @@ li a:hover {
 .row{
 	width:70%;
 	height: 100%;
-	background-color:white;
 	display:flex;
 	flex-wrap:wrap;
 	margin:auto;
