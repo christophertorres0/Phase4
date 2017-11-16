@@ -50,7 +50,7 @@ li a:hover {
 }
 
 .column-1 {
-	height:100%;
+	height:50%;
 	width:calc(100%/3);
 	background-color:green;
 	display:flex;
@@ -59,7 +59,7 @@ li a:hover {
 
 
 .column-2 {
-	height:100%;
+	height:50%;
 	width:calc(100%/3);
 	background-color:red;
 	display:flex;
@@ -68,7 +68,7 @@ li a:hover {
 
 
 .column-3 {
-	height:100%;
+	height:50%;
 	width:calc(100%/3);
 	background-color:yellow;
 	display:flex;
