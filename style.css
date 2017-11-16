@@ -17,7 +17,7 @@ body {
 
 .shoe2 {
 	height: 100vh;
-	width: 100vw;
+	width: 80vw;
 	background-color: #E39B36;
 	display: flex;
 }
