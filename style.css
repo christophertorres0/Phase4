@@ -108,7 +108,6 @@ li a:hover {
 	.column-1 {
 		height:30%;
 		width:100%;
-		background-color:green;
 		display:block;
 	
 	}
@@ -117,7 +116,6 @@ li a:hover {
 	.column-2 {
 		height:30%;
 		width:100%;
-		background-color:red;
 		display:block;
 	
 	}
@@ -126,7 +124,6 @@ li a:hover {
 	.column-3 {
 		height:30%;
 		width:100%;
-		background-color:yellow;
 		display:block;
 	
 	}
