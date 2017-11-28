@@ -12,7 +12,8 @@ body {
 	height: 50%;
 	width: 100vw;
 	display: block;
-	background-color: #DB713B; 
+	background-color: #181818;
+	opacity: 0.2;
 
 }
 
