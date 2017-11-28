@@ -91,11 +91,10 @@ li a:hover {
 
 .text{
 	height:10%;
-	width: 100%;
 	color:black;
 	text-align:center;
 	font-family:"Segoe UI",Arial,sans-serif;
-	font-weight: 400px;
+	font-weight: 400;
    	margin: 10px 0;
 	letter-spacing: 4px;
 }
