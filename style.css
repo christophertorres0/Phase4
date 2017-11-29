@@ -112,6 +112,34 @@ li a:hover {
 	margin:0px;
 }
 
+.column-4 {
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+}
+
+
+.column-5 {
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+		
+	
+}
+
+
+.column-6 {
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+}
+
 @media screen and (max-width:800px) {
         .shoe1 {
 		height:50vh;
