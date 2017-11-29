@@ -58,8 +58,8 @@ li a:hover {
 }
 
 .column-1 {
-	height:65%;
-	max-width:28%;
+	height:62%;
+	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
@@ -67,8 +67,8 @@ li a:hover {
 
 
 .column-2 {
-	height:65%;
-	max-width:28%;
+	height:62%;
+	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
@@ -78,8 +78,8 @@ li a:hover {
 
 
 .column-3 {
-	height:65%;
-	max-width:28%;
+	height:62%;
+	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
