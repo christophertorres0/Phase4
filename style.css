@@ -103,7 +103,12 @@ li a:hover {
 	letter-spacing: 4px;
 }
 
-
+.black{
+	Height:50%;
+	width:100%;
+	background-color:black; 
+	
+}
 
 @media screen and (max-width:800px) {
         .shoe1 {
