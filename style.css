@@ -62,7 +62,7 @@ li a:hover {
 	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:30px;
+	margin:auto;
 }
 
 
@@ -71,7 +71,7 @@ li a:hover {
 	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:30px
+	margin:auto;
 		
 	
 }
@@ -82,7 +82,7 @@ li a:hover {
 	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:30px;
+	margin:auto;
 }
 
 .row{
