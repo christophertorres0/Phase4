@@ -85,6 +85,9 @@ li a:hover {
 	margin:auto;
 }
 
+.width{
+	max-width:20%;
+}
 .row{
 	width:65%;
 	height: 80%;
