@@ -59,7 +59,7 @@ li a:hover {
 
 .column-1 {
 	height:50%;
-	width:calc(100%/3);
+	width:calc(100%/4);
 	display:flex;
 	flex-wrap: wrap;
 	padding:10px;
