@@ -59,19 +59,19 @@ li a:hover {
 
 .column-1 {
 	height:50%;
-	max-width:30%;
+	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:10px;
+	padding:30px;
 }
 
 
 .column-2 {
 	height:50%;
-	max-width:30%;
+	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:10px
+	padding:30px
 		
 	
 }
@@ -79,10 +79,10 @@ li a:hover {
 
 .column-3 {
 	height:50%;
-	max-width:30%;
+	max-width:28%;
 	display:flex;
 	flex-wrap: wrap;
-	padding:10px;
+	padding:30px;
 }
 
 .row{
