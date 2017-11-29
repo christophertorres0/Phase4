@@ -128,7 +128,7 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	background-color:white;
+	background-color:blue;
 	
 }
 
@@ -139,7 +139,7 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	background-color:white;
+	background-color:green;
 }
 
 @media screen and (max-width:800px) {
