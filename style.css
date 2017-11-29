@@ -63,6 +63,7 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	padding:10px;
+	position: absolute;
 }
 
 
@@ -72,6 +73,7 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	padding:10px
+	
 }
 
 
