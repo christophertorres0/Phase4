@@ -107,7 +107,7 @@ li a:hover {
 	Height:50%;
 	width:100%;
 	background-color:black; 
-	
+	margin:0px;
 }
 
 @media screen and (max-width:800px) {
