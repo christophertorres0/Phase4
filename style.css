@@ -117,34 +117,7 @@ li a:hover {
 }
 }
 
-.column-4 {
-	height:62%;
-	max-width:26%;
-	display:flex;
-	flex-wrap: wrap;
-	margin:auto;
-	background-color:purple;
-}
 
-
-.column-5 {
-	height:62%;
-	max-width:26%;
-	display:flex;
-	flex-wrap: wrap;
-	margin:auto;
-	background-color:blue;
-}
-
-
-.column-6 {
-	height:62%;
-	max-width:26%;
-	display:flex;
-	flex-wrap: wrap;
-	margin:auto;
-	background-color:green;
-}
 
 @media screen and (max-width:800px) {
         .shoe1 {
