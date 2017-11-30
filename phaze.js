@@ -5,7 +5,6 @@ function makeOpaque(e){
 	e.classList.add("opaque");
 }
 
-function play(){
-       var audio = document.getElementById("thesmiths");
-       audio.play();
-                 }
+function play(e){
+       document.getElementById("thesmiths").play();
+}
