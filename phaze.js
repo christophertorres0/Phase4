@@ -5,6 +5,6 @@ function makeOpaque(e){
 	e.classList.add("opaque");
 }
 
-function play(e){
+function play(){
        document.getElementById("thesmiths").play();
 }
