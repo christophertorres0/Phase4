@@ -8,3 +8,12 @@ function makeOpaque(e){
 function play(){
        document.getElementById("thesmiths").play();
 }
+
+function play(){
+       document.getElementById("thestoneroses").play();
+}
+
+function play(){
+       document.getElementById("thecure").play();
+}
+
