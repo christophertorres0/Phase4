@@ -207,6 +207,7 @@ figure:hover+span {
 
 img:hover {
     cursor: pointer;
+	opacity: 0.2;
 }
 
 img:active {
