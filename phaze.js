@@ -5,15 +5,15 @@ function makeOpaque(e){
 	e.classList.add("opaque");
 }
 
-function play(){
-       document.getElementById("thesmiths").play();
-}
-
-function play(){
+function play1(){
        document.getElementById("thestoneroses").play();
 }
 
-function play(){
+function play2(){
+       document.getElementById("thesmiths").play();
+}
+
+function play3(){
        document.getElementById("thecure").play();
 }
 
