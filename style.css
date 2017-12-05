@@ -6,6 +6,9 @@ body {
 	display: flex;
 	flex-wrap:wrap;
 	margin:0px;
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 .shoe1 {
@@ -113,11 +116,7 @@ li a:hover {
 
 
 
-body {
-	color: #333;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
-}
+
 h1,
 h1+p {
 	margin: 30px 15px 0;
