@@ -220,7 +220,7 @@ img:active {
 
 @media screen and (max-width:800px) {
         .shoe1 {
-		height:50vh;
+		height:calc(100vw/2);
 		width:100vw;
 	}
 	.shoe2 {
