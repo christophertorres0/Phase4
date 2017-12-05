@@ -255,9 +255,9 @@ img:active {
 		display:block;
 		margin:auto;
 	}
-	
+}
+
 	img {
 		width: calc(100%/3);
 		height: 80%;
 	}
-}
