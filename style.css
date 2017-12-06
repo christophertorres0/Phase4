@@ -190,6 +190,9 @@ li a:hover {
 .shoe1 {
 	height:calc(100vw/2);
 	width:100vw;
+	opacity: 0.8;
+	margin:0px;
+	background-image:url("Images/tumblr_nj9rwoSYzv1snn2p6o1_500.gif");
 	}
 	
 .shoe2 {
