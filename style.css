@@ -216,7 +216,13 @@ img:active {
 
 }
 
+.tickets{
+	height:100vh;
+	width:100vw;
+	background-color:black;
+	
 
+}
 @media screen and (max-width:800px) {
         .shoe1 {
 		height:calc(100vw/2);
