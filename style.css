@@ -224,46 +224,77 @@ img:active {
 
 }
 @media screen and (max-width:800px) {
-        .shoe1 {
-		height:calc(100vw/2);
-		width:100vw;
+	ul {
+	height:5.6%;
+	width:100%;
+	list-style-type: none;
+        margin: 0;
+    	padding: 50;
+    	overflow: hidden;
+    	background-color: black;
+	font-family:Verdana,sans-serif;
+	margin:0px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #707070;
+	opacity: 0.9;
+}
+
+.shoe1 {
+	height:calc(100vw/2);
+	width:100vw;
 	}
-	.shoe2 {
-		height:50vh;	
-		width:100%;
-		display:block;
+	
+.shoe2 {
+	height:50vh;	
+	width:100%;
+	display:block;
 	}
-	.shoe3{ 
-		height:8%;
-		width: 100%;
-	    	position:fixed;
+	
+.shoe3{ 
+	height:8%;
+	width: 100%;
+	position:fixed;
 	}
 
-	.column-1 {
-		height:30%;
-		width:60%;
-		display:block;
-		margin:auto;
+.column-1 {
+	height:30%;
+	width:60%;
+	display:block;
+	margin:auto;
 	}
 
 
-	.column-2 {
-		height:30%;
-		width:60%;
-		display:block;
-		margin:auto;
+.column-2 {
+	height:30%;
+	width:60%;
+	display:block;
+	margin:auto;
 	}
 
 
-	.column-3 {
-		height:30%;
-		width:60%;
-		display:block;
-		margin:auto;
+.column-3 {
+	height:30%;
+	width:60%;
+	display:block;
+	margin:auto;
 	}
 }
 
-	img {
-		width: 100%;
-		height: 80%;
+img {
+	width: 100%;
+	height: 80%;
 	}
