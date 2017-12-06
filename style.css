@@ -204,7 +204,7 @@ li a:hover {
 
 .column-1 {
 	height:30%;
-	max-width:60%;
+	max-width:10%;
 	display:block;
 	margin:auto;
 	}
@@ -212,7 +212,7 @@ li a:hover {
 
 .column-2 {
 	height:30%;
-	max-width:60%;
+	max-width:10%;
 	display:block;
 	margin:auto;
 	}
@@ -220,7 +220,7 @@ li a:hover {
 
 .column-3 {
 	height:30%;
-	max-width:60%;
+	max-width:10%;
 	display:block;
 	margin:auto;
 	}
