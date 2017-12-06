@@ -122,12 +122,7 @@ h1+p {
 	margin: 30px 15px 0;
 	font-weight: 300;
 }
-h1+p a {
-	color: #333;
-}
-h1+p a:hover {
-	text-decoration:none;
-}
+
 h2 {
 	margin: 60px 15px 0;
 	padding: 0;
@@ -245,6 +240,12 @@ li a:hover {
 h1,
 h1+p {
 	margin: 30px 15px 0;
+	font-weight: 300;
+}
+
+h2 {
+	margin: 60px 15px 0;
+	padding: 0;
 	font-weight: 300;
 }
 
