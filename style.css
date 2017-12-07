@@ -299,7 +299,7 @@ h2 {
 	height:100vh;
 	width:100%;
 	background-color:black;
-	display:block;
+	display:flex;
 	margin-bottom: 2cm;
 	margin-top:1cm;
 }
@@ -308,7 +308,8 @@ h2 {
 .one{
 	height:62%;
 	max-width:26%;
-	display:block;
+	display:flex;
+	flex-wrap: wrap;
 	margin:auto;
 	
 	
@@ -317,7 +318,8 @@ h2 {
 .two{
 	height:62%;
 	max-width:26%;
-	display:block;
+	display:flex;
+	flex-wrap: wrap;
 	margin:auto;
 	
 }
@@ -325,7 +327,8 @@ h2 {
 .three{
 	height:62%;
 	max-width:26%;
-	display:block;
+	display:flex;
+	flex-wrap: wrap;
 	margin:auto;
 	
 }
