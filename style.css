@@ -154,6 +154,33 @@ img:active {
 	margin-top:1cm;
 }
 
+
+.one{
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+	
+}
+
+.two{
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+}
+
+.three{
+	height:62%;
+	max-width:26%;
+	display:flex;
+	flex-wrap: wrap;
+	margin:auto;
+}
+
+
 img {
 	width: 100%;
 	height: 80%;
