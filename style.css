@@ -161,6 +161,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
+	background-color:green;
 	
 }
 
@@ -170,6 +171,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
+	background:red;
 }
 
 .three{
@@ -178,6 +180,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
+	background-color:orange;
 }
 
 
