@@ -295,4 +295,38 @@ h2 {
 	font-weight: 300;
 }
 
+.tickets{
+	height:100vh;
+	width:100%;
+	background-color:black;
+	display:block;
+	margin-bottom: 2cm;
+	margin-top:1cm;
+}
+
+
+.one{
+	height:62%;
+	max-width:26%;
+	display:block;
+	margin:auto;
+	
+	
+}
+
+.two{
+	height:62%;
+	max-width:26%;
+	display:block;
+	margin:auto;
+	
+}
+
+.three{
+	height:62%;
+	max-width:26%;
+	display:block;
+	margin:auto;
+	
+}
 
