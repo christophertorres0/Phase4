@@ -303,7 +303,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:2px solid red;
+	border:3px solid white;
 	
 }
 
@@ -313,7 +313,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:2px solid red;
+	border:3px solid white;
 }
 
 .three{
@@ -322,7 +322,7 @@ img:active {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:2px solid red;
+	border:3px solid white;
 }
 
 	}	
