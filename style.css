@@ -211,7 +211,6 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:3px solid black;
 }
 
 
@@ -221,8 +220,6 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:3px solid black;
-	
 }
 
 
@@ -232,7 +229,6 @@ li a:hover {
 	display:flex;
 	flex-wrap: wrap;
 	margin:auto;
-	border:3px solid black;
 }
 
 .width{
