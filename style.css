@@ -150,7 +150,8 @@ img:active {
 	width:100%;
 	background-color:black;
 	display:flex;
-
+	margin-bottom: 2cm;
+	margin-top:1cm;
 }
 
 img {
