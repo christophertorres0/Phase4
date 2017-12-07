@@ -99,13 +99,13 @@ img:active {
 h1,
 h1+p {
 	margin: 30px 15px 0;
-	font-weight: 300;
+	font-weight: 150;
 }
 
 h2 {
 	margin: 60px 15px 0;
 	padding: 0;
-	font-weight: 300;
+	font-weight: 150;
 }
 
 .tickets{
@@ -276,13 +276,13 @@ li a:hover {
 h1,
 h1+p {
 	margin: 30px 15px 0;
-	font-weight: 300;
+	font-weight: 150;
 }
 
 h2 {
 	margin: 60px 15px 0;
 	padding: 0;
-	font-weight: 300;
+	font-weight: 150;
 }
 h2 span {
 	margin-left: 1em;
