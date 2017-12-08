@@ -7,13 +7,20 @@ function makeOpaque(e){
 
 function play1(){
        document.getElementById("thestoneroses").play();
+	document.getElementById("thesmiths").pause();
+	document.getElementById("thecure").pause();
+}
 }
 
 function play2(){
        document.getElementById("thesmiths").play();
+	document.getElementById("thecure").pause()
+	 document.getElementById("thestoneroses").pause();
 }
 
 function play3(){
        document.getElementById("thecure").play();
+	 document.getElementById("thestoneroses").pause();
+	 document.getElementById("thesmiths").pause();
 }
 
