@@ -24,7 +24,9 @@ function play3(){
 	 document.getElementById("thesmiths").pause();
 }
 
-
+function changePicture(e){
+	document.getElementById("vegeta").classList.toggle("power-up");
+}
 
 
 
