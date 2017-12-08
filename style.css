@@ -143,6 +143,15 @@ h2 {
 	margin:auto;
 }
 
+.blue {
+	background-color: #a2adbf;
+}
+
+.tan {
+	background-color: #c8a36f;
+}
+
+
 @media screen and (min-width:801px) {
 body {
 	height:100vh;
