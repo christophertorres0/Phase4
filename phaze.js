@@ -27,34 +27,29 @@ function play3(){
 
 
 function resetAll(){
-	document.getElementById("one").classList.remove("tan");
-	document.getElementById("two").classList.remove("tan");
-	document.getElementById("three").classList.remove("tan");
-	document.getElementById("four").classList.remove("tan");
-	document.getElementById("one").innerHTML="";
-	document.getElementById("two").innerHTML="";
-	document.getElementById("three").innerHTML="";
-	document.getElementById("four").innerHTML="";
+	document.getElementById("p").classList.remove("tan");
+	document.getElementById("d").classList.remove("tan");
+	document.getElementById("f").classList.remove("tan");
+	document.getElementById("p").innerHTML="";
+	document.getElementById("d").innerHTML="";
+	document.getElementById("f").innerHTML="";
 }
 
 
 function toggleone(elem){
-	document.getElementById("one").classList.toggle("tan");
+	document.getElementById("p").classList.toggle("tan");
 	elem.innerHTML = "JavaScriptSorcery";
 }
 
 function toggletwo(elem){
-	document.getElementById("two").classList.toggle("tan");
+	document.getElementById("d").classList.toggle("tan");
 	elem.innerHTML = "JavaScriptSorcery";
 }
 
 function togglethree(elem){
-	document.getElementById("three").classList.toggle("tan");
+	document.getElementById("f").classList.toggle("tan");
 	elem.innerHTML = "JavaScriptSorcery";
 }
 
-function togglefour(elem){
-	document.getElementById("four").classList.toggle("tan");
-	elem.innerHTML = "JavaScriptSorcery";
-}
+
 
