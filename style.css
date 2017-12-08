@@ -312,7 +312,7 @@ img:active {
 
 
 .one{
-	height:62%;
+	height:45vw;
 	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
@@ -322,7 +322,7 @@ img:active {
 }
 
 .two{
-	height:62%;
+	height:45vw;
 	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
@@ -331,7 +331,7 @@ img:active {
 }
 
 .three{
-	height:62%;
+	height:45vw;
 	max-width:26%;
 	display:flex;
 	flex-wrap: wrap;
