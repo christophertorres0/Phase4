@@ -26,30 +26,6 @@ function play3(){
 
 
 
-function resetAll(){
-	document.getElementById("p").classList.remove("tan");
-	document.getElementById("d").classList.remove("tan");
-	document.getElementById("f").classList.remove("tan");
-	document.getElementById("p").innerHTML="";
-	document.getElementById("d").innerHTML="";
-	document.getElementById("f").innerHTML="";
-}
-
-
-function toggleone(elem){
-	document.getElementById("p").classList.toggle("tan");
-	elem.innerHTML = "JavaScriptSorcery";
-}
-
-function toggletwo(elem){
-	document.getElementById("d").classList.toggle("tan");
-	elem.innerHTML = "JavaScriptSorcery";
-}
-
-function togglethree(elem){
-	document.getElementById("f").classList.toggle("tan");
-	elem.innerHTML = "JavaScriptSorcery";
-}
 
 
 
