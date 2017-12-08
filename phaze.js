@@ -10,7 +10,7 @@ function play1(){
 	document.getElementById("thesmiths").pause();
 	document.getElementById("thecure").pause();
 }
-}
+
 
 function play2(){
        document.getElementById("thesmiths").play();
