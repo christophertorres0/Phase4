@@ -24,3 +24,37 @@ function play3(){
 	 document.getElementById("thesmiths").pause();
 }
 
+
+
+function resetAll(){
+	document.getElementById("one").classList.remove("tan");
+	document.getElementById("two").classList.remove("tan");
+	document.getElementById("three").classList.remove("tan");
+	document.getElementById("four").classList.remove("tan");
+	document.getElementById("one").innerHTML="";
+	document.getElementById("two").innerHTML="";
+	document.getElementById("three").innerHTML="";
+	document.getElementById("four").innerHTML="";
+}
+
+
+function toggleone(elem){
+	document.getElementById("one").classList.toggle("tan");
+	elem.innerHTML = "JavaScriptSorcery";
+}
+
+function toggletwo(elem){
+	document.getElementById("two").classList.toggle("tan");
+	elem.innerHTML = "JavaScriptSorcery";
+}
+
+function togglethree(elem){
+	document.getElementById("three").classList.toggle("tan");
+	elem.innerHTML = "JavaScriptSorcery";
+}
+
+function togglefour(elem){
+	document.getElementById("four").classList.toggle("tan");
+	elem.innerHTML = "JavaScriptSorcery";
+}
+
