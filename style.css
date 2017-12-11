@@ -143,6 +143,7 @@ h2 {
 	margin:auto;
 }
 
+/* This is the class that is TOGGLED onto the image on LINE 55 of my HTML */
 .power-up {
     content: url(Images/hb.png);
 }
