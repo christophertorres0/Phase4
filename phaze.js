@@ -24,6 +24,7 @@ function play3(){
 	 document.getElementById("thesmiths").pause();
 }
 
+// This function is run when the user clicks on the image on LINE 18 of your HTML (Vegeta powering up)
 function changePicture(e){
 	document.getElementById("vegeta").classList.toggle("power-up");
 }
